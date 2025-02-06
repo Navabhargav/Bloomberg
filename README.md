@@ -56,13 +56,6 @@ python main.py
 
 ---
 
-## 🏆 **Achievements**  
-🏅 **Top 0.1% student**, *QMUL Social Venture Fund*  
-🏅 **Winner** of *2 National-Level Hackathons*  
-🏅 **Champion** *AI-powered Robo-Wars & Drone Racing*  
-
----
-
 ## 🤝 **Contributors**  
 👤 **Nava Bhargav Gedda**  
 📩 [navabhargavg@gmail.com](mailto:navabhargavg@gmail.com)  
