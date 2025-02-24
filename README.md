@@ -14,6 +14,7 @@ This project predicts **stock price movements** using **Machine Learning & Deep 
 ✔ **Deep Learning**: LSTM, GRU  
 ✔ **Interactive Dashboard** (Tableau, Power BI)  
 
+
 ---
 
 ## 📁 **Project Structure**  
