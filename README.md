@@ -3,7 +3,8 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8-blue.svg)](https://www.python.org/) [![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Sklearn-orange)](https://scikit-learn.org/stable/) [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-TensorFlow-red)](https://www.tensorflow.org/)  
 
-## 🚀 Overview  
+## 🚀 Overview 
+
 This project predicts **stock price movements** using **Machine Learning & Deep Learning models** while integrating **sentiment analysis** from **Bloomberg Terminal news data**.  
 
 ### 🔹 **Key Features:**  
