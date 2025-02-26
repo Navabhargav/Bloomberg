@@ -18,6 +18,7 @@ This project predicts **stock price movements** using **Machine Learning & Deep 
 
 ---
 
+
 ## 📁 **Project Structure**  
 ```
 📂 data/          # Historical stock & sentiment data  
